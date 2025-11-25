@@ -1,0 +1,1 @@
+# Satellite-Simulation-openMP-openCL
